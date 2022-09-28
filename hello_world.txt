@@ -1,0 +1,2 @@
+This is a test with git (learning git with the Odin Project).
+Some progress has been made, slowly but surely.
